@@ -33,8 +33,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanlega" alt="sanlega" /></a> </p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanlega&" alt="sanlega" /></p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanlega&theme=apprentice)](https://git.io/streak-stats)
 <br>
 
 📚 I'm currently diving into the fascinating world of development, trying to soak up as much knowledge as I can. There's always more to learn in this ever-evolving field and that's what keeps me excited! 🚀
