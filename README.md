@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/sanlega" target="blank"><img src="https://img.shields.io/twitter/follow/sanlega?logo=twitter&style=for-the-badge" alt="sanlega" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [santilegaristi.com](santilegaristi.com)
+- 👨‍💻 All of my projects are available at [santilegaristi.com](http://santilegaristi.com)
 
 - 📝 I am currently learning everything I can about development and always looking for new challenges 🚀
 
