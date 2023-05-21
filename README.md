@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanlega&label=Profile%20views&color=0e75b6&style=flat" alt="sanlega" /> </p>
 
-- 👨‍💻 All of my projects are available at [santilegaristi.com](http://santilegaristi.com)
+- 👨‍💻 All of my projects are available here at my GitHub! <!-- [santilegaristi.com](http://santilegaristi.com) -->
 
 - 📝 I am currently learning everything I can about development and always looking for new challenges 🚀
 
