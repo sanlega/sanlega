@@ -36,10 +36,3 @@
 💼 Apart from coding, I love sharing insights and experiences with other developers, so don't hesitate to reach out to me. Let's help each other grow! 🌱
 
 🏁 Remember: "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie 🎯
-
----
-
-   **Currently working on:**
-   - Now im working in a project called EchoSig that aims to connect rural areas with SOS and security systems for cheap
- <br></br>
-<a href="https://github.com/sanlega/EchoSig"><img src="https://img.shields.io/badge/Project-EchoSig-green"></a>
