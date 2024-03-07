@@ -11,11 +11,6 @@
 
 - 📫 How to reach me: **me@santilegaristi.com**
 
-<br>
-
-<p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3f3fm900060fjx7kw7tghw/stats?cursusId=21&coalitionId=66" alt="slegaris's 42 stats" /></a></p>
-
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
