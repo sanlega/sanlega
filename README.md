@@ -9,7 +9,7 @@
 
 - 👥 I’m looking for help with my projects and would love to collaborate with other developers, feel free to pull request! 🤝
 
-- 📫 How to reach me: **me@santilegaristi.com**
+- 📫 How to reach me: **santilega@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
